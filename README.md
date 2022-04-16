@@ -11,5 +11,4 @@ And remamber, works only as long as you do not move the .ico file, so keep it in
 
 ### Contributors
 
-omar_fait
-Gabi_Alex
+omar_fait, Gabi_Alex
