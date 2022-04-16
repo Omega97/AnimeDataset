@@ -7,3 +7,9 @@ random anime-related images
 4) Chose your new icon
 
 And remamber, works only as long as you do not move the .ico file, so keep it in a safe place!
+
+
+### Contributors
+
+omar_fait
+Gabi_Alex
